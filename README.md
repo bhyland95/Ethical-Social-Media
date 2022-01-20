@@ -8,7 +8,7 @@ We used Javascript, css, html, handlebars, node, api, and express to create this
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
@@ -16,14 +16,34 @@ We used Javascript, css, html, handlebars, node, api, and express to create this
 - [License](#license)
 - [Questions](#questions)
 
-## Installation
+ ## Installation
+  
+Download our application and start using it to help keep track of all your subscriptions. Clone the repo, run "npm install" to download all the dependencies, and start the app up with "npm run develop"
 
-## Screenshots
+The app is currently only designed to look good on mobile. We are working on designing a desktop version. 
+  
+  ## Usage 
+  
+ Login and hit the add button at the bottom to add a subscription! Click on the subscription from the home screen to view information about it and delete it. 
+ 
+ You can visit the working application by clicking here: https://peaceful-gorge-13766.herokuapp.com/
+ (Resize to mobile Iphone view for best results)
 
-## Credits
 
-## License
+  
+  ## License
+  
+  This application is covered by the MIT license. 
+  <br />
+  For more information about licenses, visit [this link.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+  
+  
 
-![Screen Shot 2021-11-07 at 7 26 58 PM](https://user-images.githubusercontent.com/87509934/140674867-2e8d3f3c-936b-49d6-bb2a-c46756e65730.png)
+  ## Questions 
+   If you have any questions, please reach out! 
+  <br />
+  Find me on GitHub: [Bhyland95](https://github.com/Bhyland95)<br />
+  <br />
+  Email me: blakehyland95@gmail.com
+ 
 
-https://quiet-journey-83566.herokuapp.com/
