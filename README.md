@@ -18,16 +18,18 @@ We used Javascript, css, html, handlebars, node, api, and express to create this
 
  ## Installation
   
-Download our application and start using it to help keep track of all your subscriptions. Clone the repo, run "npm install" to download all the dependencies, and start the app up with "npm run develop"
+Clone the repo and run "npm install" to download all the dependencies. Add a .env file that contains your mySQL credential and the database name "ethicalSocial_db". Use mySQL to create the database. Start the app up with "npm run start" and then navigate to your localhost. 
 
-The app is currently only designed to look good on mobile. We are working on designing a desktop version. 
   
   ## Usage 
   
- Login and hit the add button at the bottom to add a subscription! Click on the subscription from the home screen to view information about it and delete it. 
- 
- You can visit the working application by clicking here: https://peaceful-gorge-13766.herokuapp.com/
- (Resize to mobile Iphone view for best results)
+YOu can visit the deployed application here: https://quiet-journey-83566.herokuapp.com/
+  
+On start up, users are able to view other users profiles, the user's overall ratings, and click into the user's profile to see ratings left by others. However, if you would like to leave a rating of your own, you must login to the application and navigate to the user you would like to leave a rating for. Once here, you can leave a rating of 1-5 stars, with a category, and a short description. 
+
+<img width="255" alt="HomePage_1_50" src="https://user-images.githubusercontent.com/84405590/150410767-2f6e858d-5d5e-4609-94e7-45b45a81bf94.png">
+<img width="472" alt="RatingPage_50" src="https://user-images.githubusercontent.com/84405590/150410784-a9f5d178-cd51-4356-a077-92004ef14736.png">
+
 
 
   
