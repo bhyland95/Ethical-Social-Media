@@ -1,10 +1,20 @@
 # ethical-media
 
-## What does Ethical Media do?
+## Description
 
 The very reasonable and ethical social media helps people rate other people so that a person can know what other people are thinking about them. A user can login, create a profile, be rated, and rate others. A user can rate anyone on any category. A user will first select a person to rate, create a category and then rate the person on that category.
 
 We used Javascript, css, html, handlebars, node, api, and express to create this project
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+## Table of Contents (Optional)
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
 
 ## Motivation
 
