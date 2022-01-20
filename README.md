@@ -1,4 +1,4 @@
-# ethical-media
+# Ethical-Media
 
 ## Description
 
@@ -15,14 +15,6 @@ We used Javascript, css, html, handlebars, node, api, and express to create this
 - [Usage](#usage)
 - [License](#license)
 - [Questions](#questions)
-
-## Motivation
-
-We wanted to create an application that was both functional and entertaining.
-
-## What we learned
-
-Creating this project we learned how other
 
 ## Installation
 
